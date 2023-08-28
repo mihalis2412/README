@@ -1,6 +1,6 @@
 # Welcome to my Github Profile!
 # 💫 About Me:
-🔭 I’m currently working on my MSc Applied Statistics Thesis.<br>👯 I’m looking to collaborate/work on the field of Biostatistics.<br>🌱 I’m currently learning more about Clinical Trials and Survival Analysis.<br>💬 Ask me about pretty much anything you wish.<br>⚡ Fun fact: I had no idea this was possible until quite recently!
+🌱 I’m currently working as a Modeling Statistician while also conductiing biostatistical analyses.<br>👯 I’m looking to collaborate/work on the field of Biostatistics.<br>💬 Ask me about pretty much anything you wish.<br>
 
 
 ## 🌐 Socials:
