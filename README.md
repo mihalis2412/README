@@ -1,6 +1,6 @@
 # Welcome to my Github Profile!
 # 💫 About Me:
-🌱 I’m currently working as a Modeling Statistician while also conducting biostatistical analyses.<br>👯<br>💬 Ask me about pretty much anything you wish.<br>
+🌱 I’m currently working as a Modeling Statistician while also conducting biostatistical analyses.<br>💬 Ask me about pretty much anything you wish.<br>
 
 
 ## 🌐 Socials:
